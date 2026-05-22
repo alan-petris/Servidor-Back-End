@@ -40,3 +40,4 @@ app.listen(PORT, () => console.log(`Servidor rodando na porta: ${PORT}`));
 // Hello world wednesday
 // haha
 // More one day
+// friday
