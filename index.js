@@ -42,4 +42,4 @@ app.listen(PORT, () => console.log(`Servidor rodando na porta: ${PORT}`));
 // More one day
 // friday
 // saturday
-
+// Sunday
